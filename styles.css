@@ -82,7 +82,7 @@ body {
   text-align: left;
   word-break: normal;
   word-wrap: normal;
-  white-space: pre;
+  white-space: pre-line;
   line-height: 2;
   background-color: #f7f7f7;
   padding: 15px;
